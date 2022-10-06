@@ -29,7 +29,7 @@ SRL is the task of addressing “Who did What to Whom, How, Where and When?” i
 
 The structure of the nerual network architecture is
 
-[![extra-model.jpg](https://i.postimg.cc/MpxwHZsj/extra-model.jpg)](https://postimg.cc/gnMQBpbY)
+[![extra-model.jpg](https://i.postimg.cc/MT0bWDXB/extra-model.jpg)](https://postimg.cc/jw5JcyHq)
 
 In particular:
 - Every token is lemmatized
